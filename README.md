@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR6a243ZTkwMnRybWlkcHB0YWcwZ2Jxc3FzYmh2eHo4aXJmMDRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6VnGMHB5ViiMxEUKL/giphy.gif](https://r.resimlink.com/lM-fI_jw.png))
+[![MasterHead](https://r.resimlink.com/lM-fI_jw.png)
 <h1 align="center">Hi 👋, I'm rovex-js</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
